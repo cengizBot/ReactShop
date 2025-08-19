@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Blue T-Shirt",
+    "description": "Comfortable cotton t-shirt",
+    "price": 19.99,
+    "categories": [
+      "clothing",
+      "casual"
+    ],
+    "image": "/assets/images/tshirt_blue.jpg"
+  },
+  {
+    "id": 2,
+    "name": "White Sneakers",
+    "description": "Trendy sports shoes",
+    "price": 49.99,
+    "categories": [
+      "shoes",
+      "casual"
+    ],
+    "image": "/assets/images/white_sneakers.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Black Backpack",
+    "description": "Practical backpack for everyday use",
+    "price": 29.99,
+    "categories": [
+      "accessories"
+    ],
+    "image": "/assets/images/backpack.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Headphones",
+    "description": "High-quality sound for music lovers",
+    "price": 89.99,
+    "categories": [
+      "tech"
+    ],
+    "image": "/assets/images/headphones.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Jeans",
+    "description": "Stylish and comfortable denim jeans",
+    "price": 39.99,
+    "categories": [
+      "clothing"
+    ],
+    "image": "/assets/images/jeans.jpg"
+  }
+]

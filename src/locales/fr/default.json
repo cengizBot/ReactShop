@@ -1,0 +1,18 @@
+{
+  "website_name": "mon-Shop",
+  "register": "s'inscrire",
+  "logout": "se déconnecter",
+  "connection": "connexion",
+  "need_to_connect": "vous devez vous connecter",
+  "account": "Compte",
+  "delog": "Déconnexion",
+  "error_cred": "identifiants incorrects",
+  "error_load_data": "Échec du chargement des produits",
+  "name": "nom",
+  "email": "email",
+  "password": "mot de passe",
+  "duplicate_email": "un compte existe déjà",
+  "account_created": "compte créé",
+  "something_went_wrong": "Une erreur est survenue",
+  "quantity": "quantité"
+}

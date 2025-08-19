@@ -1,0 +1,18 @@
+{
+  "website_name": "my-Shop",
+  "register": "register",
+  "logout": "logout",
+  "connection": "connection",
+  "need_to_connect": "you need to log in",
+  "account": "Account",
+  "delog": "Disconnection",
+  "error_cred": "error credential",
+  "error_load_data": "Failed to load products",
+  "name": "name",
+  "email": "email",
+  "password": "password",
+  "duplicate_email": "already account exist",
+  "account_created": "account created",
+  "something_went_wrong": "Une erreur est survenue",
+  "quantity": "quantity"
+}

@@ -1,0 +1,8 @@
+{
+  "add_product": "ajouter un produit",
+  "remove_product": "supprimer un produit",
+  "success_basket_add_product": "Produit ajouté",
+  "success_basket_remove_product": "Produit supprimé",
+  "error_basket_add_product": "Erreur lors de l'ajout du produit",
+  "error_basket_remove_product": "Erreur lors de la suppression du produit"
+}

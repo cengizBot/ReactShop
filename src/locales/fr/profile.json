@@ -1,0 +1,10 @@
+{
+  "title": "mon profil",
+  "current_orders": "Mes commandes en cours",
+  "product": "produit",
+  "categ": "catégories",
+  "qt": "quantité",
+  "price": "prix",
+  "total": "total",
+  "no_orders_in_progress": "aucune commande en cours."
+}
