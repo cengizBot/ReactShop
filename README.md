@@ -7,7 +7,7 @@
 Mon-Shop est une application e-commerce développée avec **React**, **Vite**, **TypeScript**, et **TailwindCSS**, avec
 prise en charge multilingue grâce à **i18next**.
 
-Démo : https://react-shop-g1tm.vercel.app/account
+Démo : https://react-shop-g1tm.vercel.app/
 ---
 
 ## 📝 Prérequis
