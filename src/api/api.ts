@@ -19,7 +19,7 @@ const apiClient = axios.create({
  * @param maxMs maximum delay in milliseconds (default: 2000ms)
  * @returns Promise<void> resolved after a random delay
  */
-export const fakeApiDelay = async (minMs = 1000, maxMs = 2000): Promise<void> => {
+export const fakeApiDelay = async (minMs = 500, maxMs = 800): Promise<void> => {
     const delay = minMs + Math.random() * (maxMs - minMs);
     return new Promise(res => setTimeout(res, delay));
 };
