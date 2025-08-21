@@ -56,7 +56,7 @@ async function request<T>(
     config: AxiosRequestConfig
 ): Promise<ApiResponse<T>> {
     try {
-        await fakeApiDelay(2000); // Simulate network latency
+        await fakeApiDelay(1000); // Simulate network latency
         const response = await apiClient<T>(url, config);
         return {data: response.data, error: null};
     } catch (err) {

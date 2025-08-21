@@ -22,6 +22,6 @@ export const createUsers = async (newUser: User): Promise<boolean> => {
 
 // Get the currently logged user
 export const getUser = async (): Promise<User | null> => {
-    await fakeApiDelay(500, 1000); // simulated delay
+    await fakeApiDelay(); // simulated delay
     return getCookie(NAME_COOKIE_USER_LOGGED);
 };
